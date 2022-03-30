@@ -4,7 +4,7 @@
 
 Писал неделю время от времени не напрягаясь.
 
-
+<<!
 Использовалось:
 -2) Жарогон програмистов https://habr.com/ru/post/96978/
 
@@ -20,4 +20,4 @@ https://demin.ws/blog/russian/2012/04/17/static-blog-engine-goblog/
 его гит https://github.com/gavruk/go-blog-example/tree/part1
 
 2) Гоша Дударь
-
+>>
